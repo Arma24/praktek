@@ -4,7 +4,7 @@
 				<div class="row">
 					<div class="col-md-12 col-sm-12 col-xs-12 col-lg-12">
 					  	<div class="panel panel-info">
-							<div class="panel-heading">Lihat Detil Data Maskapai</div>
+							<div class="panel-heading">Detail Data Maskapai</div>
 
 							<?php if (!empty($notif)) {
 							      echo '<div class="alert alert-success">';

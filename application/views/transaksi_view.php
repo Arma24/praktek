@@ -2,7 +2,7 @@
 <div class="row">
     <div class="col-lg-12">
         <h1 class="page-header">
-            <strong>Transaksi Penjualan Tiket Pesawat</strong>
+            <strong>Penjualan Tiket Pesawat</strong>
         </h1>
     </div>
 </div>

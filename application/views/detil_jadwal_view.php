@@ -4,7 +4,7 @@
 				<div class="row">
 					<div class="col-md-12 col-sm-12 col-xs-12 col-lg-12">
 					  	<div class="panel panel-info">
-							<div class="panel-heading">Lihat Detil Data Jadwal Penerbangan</div>
+							<div class="panel-heading">Detail Data Jadwal Penerbangan</div>
 
 							<?php if (!empty($notif)) {
 							      echo '<div class="alert alert-success">';
